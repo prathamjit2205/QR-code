@@ -44,7 +44,7 @@ const getQRcode = async (e)=>{
 
 
       <input type="submit" className='input2' value="Generate QR Code" />
-      <a  href='#' download={qr} >download </a>
+      <a  href='#' download={qr} > </a>
       </form>
 
 
